@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        GCR_CREDENTIALS_ID = Jenkins-week3
+        GCR_CREDENTIALS_ID = 'Jenkins-week3'
 
         IMAGE_NAME = 'efa14c443804'
 
