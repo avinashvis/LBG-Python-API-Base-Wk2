@@ -16,7 +16,7 @@ pipeline {
 
         LOCATION = 'europe-north1-a'
 
-        CREDENTIALS_ID = 'kubernetes'
+        CREDENTIALS_ID = 'av-kubernetes'
 
     }
 
