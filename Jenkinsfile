@@ -8,7 +8,7 @@ pipeline {
 
         IMAGE_NAME = 'efa14c443804'
 
-        GCR_URL = 'gcr.io/lbg-mea-18/week3-av'
+        GCR_URL = 'gcr.io/lbg-mea-18/'
 
         PROJECT_ID = 'lbg-mea-18'
 
@@ -17,7 +17,6 @@ pipeline {
         LOCATION = 'europe-north1-a'
 
         CREDENTIALS_ID = 'av-kubernetes'
-
     }
 
     stages {

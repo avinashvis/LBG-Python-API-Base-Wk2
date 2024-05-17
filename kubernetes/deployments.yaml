@@ -68,7 +68,7 @@ spec:
 
       - name: flask-container
 
-        image: gcr.io/lbg-mea-18/week3-av/kingkrillin/python-frontend:latest 
+        image: gcr.io/lbg-mea-18/week3-av/kingkrillin/python-frontend/efa14c443804:latest 
 
         imagePullPolicy: Always
 
