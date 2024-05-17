@@ -8,7 +8,7 @@ pipeline {
 
         IMAGE_NAME = 'efa14c443804'
 
-        GCR_URL = 'gcr.io/lbg-mea-18/'
+        GCR_URL = 'gcr.io/lbg-mea-18/kingkrillin/python-frontend'
 
         PROJECT_ID = 'lbg-mea-18'
 
